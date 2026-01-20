@@ -2,8 +2,11 @@
 
 ## Controls
 Move: A-D, Left Arrow-Right Arrow
+
 Jump: Space, W
+
 Dash: Left Shift, Caps Lock, Q, E, Left Mouse, Right Mouse
+
 Debug: B (shows player collider)
 
 ## Download
