@@ -1,5 +1,15 @@
 # Leap-Year
 
+## Modules
+**Blue Module**
+Automatically performs a dash or jump when activated.
+
+**Yellow Module**
+Allows a double jump while inside the module.
+
+**Green Module**
+Dash freely while inside the module without consuming your second dash.
+
 ## Controls
 Move: A-D, Left Arrow-Right Arrow
 
