@@ -42,4 +42,4 @@ Debug: B (shows player collider)
 https://www.dropbox.com/scl/fi/l68ety886dn1aro7ccpkf/LeapYear.zip?rlkey=gncsr13yjfs0ie2ubpllvbj38&st=470bi4oz&dl=1
 
 How to download in 3 steps:
-https://github.com/Az0xV/Az0xV/blob/main/README.md#how-to-download-a-game
+https://github.com/Az0xV/Az0xV/blob/main/GAMEDOWNLOAD.md
