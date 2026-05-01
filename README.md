@@ -39,7 +39,4 @@ Dash: Left Shift, Caps Lock, Q, E, Left Mouse, Right Mouse
 Debug: B (shows player collider)
 
 ## Download link
-https://www.dropbox.com/scl/fi/l68ety886dn1aro7ccpkf/LeapYear.zip?rlkey=gncsr13yjfs0ie2ubpllvbj38&st=470bi4oz&dl=1
-
-How to download in 3 steps:
-https://github.com/Az0xV/Az0xV/blob/main/GAMEDOWNLOAD.md
+https://az0xv.itch.io/leap-year
