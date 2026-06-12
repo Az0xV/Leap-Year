@@ -1,8 +1,5 @@
 # Leap-Year
 
-## Showcase
-
-[CDN]
 
 ## Modules
 **Blue Module**
